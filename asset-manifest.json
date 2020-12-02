@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amirkalmoni/ReactTodoList/static/css/main.311fc4e3.chunk.css",
+    "main.js": "/amirkalmoni/ReactTodoList/static/js/main.29657251.chunk.js",
+    "main.js.map": "/amirkalmoni/ReactTodoList/static/js/main.29657251.chunk.js.map",
+    "runtime-main.js": "/amirkalmoni/ReactTodoList/static/js/runtime-main.64ea163f.js",
+    "runtime-main.js.map": "/amirkalmoni/ReactTodoList/static/js/runtime-main.64ea163f.js.map",
+    "static/js/2.01f50134.chunk.js": "/amirkalmoni/ReactTodoList/static/js/2.01f50134.chunk.js",
+    "static/js/2.01f50134.chunk.js.map": "/amirkalmoni/ReactTodoList/static/js/2.01f50134.chunk.js.map",
+    "static/js/3.018f906d.chunk.js": "/amirkalmoni/ReactTodoList/static/js/3.018f906d.chunk.js",
+    "static/js/3.018f906d.chunk.js.map": "/amirkalmoni/ReactTodoList/static/js/3.018f906d.chunk.js.map",
+    "index.html": "/amirkalmoni/ReactTodoList/index.html",
+    "static/css/main.311fc4e3.chunk.css.map": "/amirkalmoni/ReactTodoList/static/css/main.311fc4e3.chunk.css.map",
+    "static/js/2.01f50134.chunk.js.LICENSE.txt": "/amirkalmoni/ReactTodoList/static/js/2.01f50134.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64ea163f.js",
+    "static/js/2.01f50134.chunk.js",
+    "static/css/main.311fc4e3.chunk.css",
+    "static/js/main.29657251.chunk.js"
+  ]
+}
